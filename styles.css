@@ -1,3 +1,11 @@
-#main-header{
-    
+#main-head{
+    color
+    padding: 100px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    background-size: contain;
+        
+        border-radius: 10px;
+        background-image: url(https://images.pexels.com/photos/2977514/pexels-photo-2977514.jpeg);
+    text-align: center;
 }
+

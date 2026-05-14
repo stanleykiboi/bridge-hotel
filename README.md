@@ -1,2 +1,9 @@
 # bridge-hotel
-A website for hotel managment and online ordering system designed to help hotel businesses manage customers orders and products more efficiently.
+
+Bridge Hotel
+
+    Description
+
+this is a simple website that enables the user to recieve his/her meals by just clicking the order now button for the meal he/she wants.
+
+---

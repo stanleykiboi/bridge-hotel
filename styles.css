@@ -118,3 +118,20 @@
 #form{
     text-align: center;
 }
+
+/* payment mode */
+#payment-mode{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0;
+}
+
+#payment-mode h1{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}

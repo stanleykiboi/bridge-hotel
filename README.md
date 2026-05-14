@@ -46,3 +46,7 @@ this is a simple website that enables the user to recieve his/her meals by just 
 - javascript
 
 ---
+
+    date
+
+2026

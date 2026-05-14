@@ -14,9 +14,17 @@ this is a simple website that enables the user to recieve his/her meals by just 
 
 ---
 
-    objective
+    Objective
 
 - To display the vareity of food we offer
 - To enable the user get the meal he want by clicking the order now button
+
+---
+
+    Technology used
+
+- HTML (for web structure)
+- CSS (for designing the page)
+- Javascript (for logic and functionality)
 
 ---

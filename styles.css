@@ -55,12 +55,56 @@
 }
 
 /* snacks */
+#snacks{
+    text-align: center;
+    font-size: large;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
 #snack{
     display: flex;
     gap: 50px;
     flex-wrap: wrap;
+    text-align: center;
+    margin-inline: calc(20px);
 }
 
 .snacks img{
     width: 200px;
+}
+
+/* dinner food */
+#dinners{
+    text-align: center;
+        font-size: large;
+        font-family: cursive;
+        text-decoration: underline;
+}
+
+#dinner{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 50px;
+}
+
+.dinner img{
+    width: 200px;
+}
+
+
+
+/* about.html */
+#about{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: cursive;
+    color: darkblue;
+    text-decoration: underline;
+}
+
+#about-us{
+    font-size: medium;
+    font-family: cursive;
 }

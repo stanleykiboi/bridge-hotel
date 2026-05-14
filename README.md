@@ -28,3 +28,8 @@ this is a simple website that enables the user to recieve his/her meals by just 
 - Javascript (for logic and functionality)
 
 ---
+
+    How It Works
+- user get to select the meal he/she wants
+- After identifying it he may click the order now button
+- To select the method of payment

@@ -1,11 +1,15 @@
-#main-head{
-    color
-    padding: 100px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-    background-size: contain;
-        
-        border-radius: 10px;
-        background-image: url(https://images.pexels.com/photos/2977514/pexels-photo-2977514.jpeg);
-    text-align: center;
+/* css of index.html */
+
+/* links */
+#links{
+    display: flex;
+    justify-content: end;
+    gap: 5px;
+    text-align: end;
+    text-decoration: none;
 }
 
+.links a{
+    text-transform: capitalize;
+    text-decoration: none;
+}

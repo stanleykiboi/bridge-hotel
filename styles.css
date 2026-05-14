@@ -71,7 +71,7 @@
 }
 
 .snacks img{
-    width: 200px;
+    width: 300px;
 }
 
 /* dinner food */
@@ -90,7 +90,7 @@
 }
 
 .dinner img{
-    width: 200px;
+    width: 300px;
 }
 
 
@@ -106,5 +106,15 @@
 
 #about-us{
     font-size: medium;
-    font-family: cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* contact us */
+#contimg{
+    background-size: cover;
+}
+
+#form{
+    text-align: center;
 }

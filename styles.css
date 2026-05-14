@@ -21,3 +21,46 @@
     background-size: cover;
     background: linear-gradient(rgba(18, 17, 17, 0.6),), url("https://images.pexels.com/photos/2977514/pexels-photo-2977514.jpeg");
 }
+
+#main-header{
+    text-align: center;
+    font-size: larger;
+    font-family: cursive;
+    font-weight: 800;
+    text-transform: capitalize;
+    font-display: auto;
+    color: rgb(4, 4, 41);
+}
+
+#head1{
+    text-align: center;
+        font-size: larger;
+        font-family: cursive;
+        font-weight: 800;
+        text-transform: capitalize;
+        font-display: auto;
+        color: rgb(4, 4, 41);
+}
+
+#head2{
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-display: auto;
+}
+
+/* available food */
+#available-food{
+    text-align: center;
+    font-family: cursive;
+}
+
+/* snacks */
+#snack{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.snacks img{
+    width: 200px;
+}

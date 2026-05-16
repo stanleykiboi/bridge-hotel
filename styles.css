@@ -7,12 +7,13 @@
     gap: 5px;
     text-align: end;
     text-decoration: none;
+    text-transform: capitalize;
 }
 
-.links a{
+/* .links a {
     text-transform: capitalize;
     text-decoration: none;
-}
+} */
 
 /* main-head */
 #main-head{
